@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorApp", "SensorApp\Sens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorApp", "MonitorApp\MonitorApp.csproj", "{F855C9F8-B631-4209-842E-08CDD4F927A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploTimerApp", "ExemploTimerApp\ExemploTimerApp.csproj", "{2278200D-C681-49F4-9D3D-85CE99417C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F855C9F8-B631-4209-842E-08CDD4F927A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F855C9F8-B631-4209-842E-08CDD4F927A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F855C9F8-B631-4209-842E-08CDD4F927A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2278200D-C681-49F4-9D3D-85CE99417C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2278200D-C681-49F4-9D3D-85CE99417C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2278200D-C681-49F4-9D3D-85CE99417C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2278200D-C681-49F4-9D3D-85CE99417C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
